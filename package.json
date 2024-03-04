@@ -2,10 +2,10 @@
   "name": "parcel-clean",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://Cristal1989.github.io/parsel_clean_build/",
+  "homepage": "https://github.com/Cristal1989/webstudio_parsel",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /parsel_clean_build/"
+    "build": "parcel build src/*.html --public-url /webstudio_parsel/"
   },
   "repository": {
     "type": "git",
